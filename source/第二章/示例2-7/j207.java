@@ -1,17 +1,15 @@
-public class j207
-{
-    public static void main(String arg[])
-    {
-        int a=12,b=-23,c=34;
-        int max,min,t;        
-        //ÇóÈý¸öÊýÖÐµÄ×î´óÖµ
-t=a>b?a:b;  
-        max=t>c?t:c;
-       //ÇóÈý¸öÊýÖÐ×îÐ¡Öµ
-        t=a<b?a:b;
-        min=t<c?t:c;
-        //ÏÔÊ¾½á¹û
-        System.out.println("max="+max);
-        System.out.println("min="+min);
+public class j207 {
+    public static void main(String arg[]) {
+        int a = 12, b = -23, c = 34;
+        int max, min, t;
+        // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ðµï¿½ï¿½ï¿½ï¿½Öµ
+        t = a > b ? a : b;
+        max = t > c ? t : c;
+        // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð¡Öµ
+        t = a < b ? a : b;
+        min = t < c ? t : c;
+        // ï¿½ï¿½Ê¾ï¿½ï¿½ï¿½
+        System.out.println("max=" + max);
+        System.out.println("min=" + min);
     }
 }

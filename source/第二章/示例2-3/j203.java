@@ -1,17 +1,18 @@
 public class j203
 {
 	public static void main(String arg[])	{
-		byte a=0x78;            //定义十六进制字节型变量
-		int b=3;                 //定义变量b为整型变量
-		float c=1.23f;            //定义变量c为单精度变量
-	    double d=3.23;          //定义变量d为双精度变量
-	    boolean e=false;         //定义变量e为布尔型变量
-        char f='A';               //定义变量f为字符型变量
-	    System.out.println("转换成十进制的a="+a);
+		byte a=0x78;            //锟斤拷锟斤拷十锟斤拷锟斤拷锟斤拷锟街斤拷锟酵憋拷锟斤拷
+		int b=3;                 //锟斤拷锟斤拷锟斤拷锟絙为锟斤拷锟酵憋拷锟斤拷
+		float c=1.23f;            //锟斤拷锟斤拷锟斤拷锟絚为锟斤拷锟斤拷锟饺憋拷锟斤拷
+	    double d=3.23;          //锟斤拷锟斤拷锟斤拷锟絛为双锟斤拷锟饺憋拷锟斤拷
+	    boolean e=false;         //锟斤拷锟斤拷锟斤拷锟絜为锟斤拷锟斤拷锟酵憋拷锟斤拷
+        char f='A';               //锟斤拷锟斤拷锟斤拷锟絝为锟街凤拷锟酵憋拷锟斤拷
+	    System.out.println("转锟斤拷锟斤拷十锟斤拷锟狡碉拷a="+a);
 	    System.out.println("b="+b);
 	    System.out.println("c="+c);
 	    System.out.println("d="+d);
 	    System.out.println("e="+e);
 	    System.out.println("f="+f);
+		
    }
 }

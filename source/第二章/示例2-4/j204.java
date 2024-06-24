@@ -1,15 +1,16 @@
-public class j204{    
-	 static int x=5;                               //¶¨Òå±äÁ¿xÎªÀà±äÁ¿
-	 public static void main(String arg[])
-  	{    
-	int y=23;                               //¶¨Òå±äÁ¿yÎª¾Ö²¿±äÁ¿
-		 System.out.println("x="+x);
-		 System.out.println("y="+y);
-			m(6);		//µ÷ÓÃ·½·¨m£¨£©
-	      }
-     static void m(int z)	//¶¨Òå±äÁ¿zÎª·½·¨²ÎÊý
-     {      	
-         System.out.println("z="+z);
-         System.out.println("x="+x);
-     }
+public class j204 {
+	static int x = 5; // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½xÎªï¿½ï¿½ï¿½ï¿½ï¿½
+
+	public static void main(String arg[]) {
+		int y = 23; // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½yÎªï¿½Ö²ï¿½ï¿½ï¿½ï¿½ï¿½
+		System.out.println("x=" + x);
+		System.out.println("y=" + y);
+		m(6); // ï¿½ï¿½ï¿½Ã·ï¿½ï¿½ï¿½mï¿½ï¿½ï¿½ï¿½
+	}
+
+	static void m(int z) // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½zÎªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+	{
+		System.out.println("z=" + z);
+		System.out.println("x=" + x);
+	}
 }
