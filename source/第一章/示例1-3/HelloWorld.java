@@ -1,13 +1,12 @@
 /*
-* HelloWorld.Java
-* 2018-4-23
-* µÚÒ»¸öJava³ÌÐò
-*/
-public class HelloWorld{
-pub1ic static void main(String[] args){
-/*
-* System.out.println(¡°He11o World!!!¡±);
-* System.out.println(¡°He11o World!!!¡±);
-*/
-}
+ * 
+ * 
+ */
+public class HelloWorld {
+    public static void main(String[] args) {
+        /*
+         * System.out.println(ï¿½ï¿½He11o World!!!ï¿½ï¿½);
+         * System.out.println(ï¿½ï¿½He11o World!!!ï¿½ï¿½);
+         */
+    }
 }
